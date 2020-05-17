@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "air" # "default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "한국에서 가장 인기있는 금융 IT 블로그"
+title                    : "Most popular finance IT blog in korea"
 title_separator          : "-"
-subtitle                 : "HI"# site tagline that appears below site title in masthead
+subtitle                 : "가 되고 싶어용.. ㅎ"# site tagline that appears below site title in masthead
 name                     : "vplayv"
 description              : "Coding Black Bear"
 url                      : "https://vplayv.github.io/"
