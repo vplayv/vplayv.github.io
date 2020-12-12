@@ -12,7 +12,7 @@ url: https://vplayv.github.io/
 paginate: 1
 baseurl: ""
 permalink: pretty
-relative_permalinks: true
+#relative_permalinks: true
 
 # Gems
 plugins:
