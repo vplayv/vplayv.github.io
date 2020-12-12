@@ -2,6 +2,9 @@
 
 #remote_theme : poole/poole
 
+markdown:         redcarpet
+highlighter:      pygments
+
 # Setup
 title: vplayv
 tagline: The Jekyll Butler
@@ -9,6 +12,7 @@ url: https://vplayv.github.io/
 paginate: 1
 baseurl: ""
 permalink: pretty
+relative_permalinks: true
 
 # Gems
 plugins:
