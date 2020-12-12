@@ -1,6 +1,6 @@
 # Mandatory settings
 
-remote_theme : poole/poole
+#remote_theme : poole/poole
 
 # Setup
 title: vplayv
