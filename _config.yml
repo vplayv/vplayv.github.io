@@ -3,7 +3,7 @@
 remote_theme : poole/poole
 
 # Setup
-title: Poole
+title: vplayv
 tagline: The Jekyll Butler
 url: https://vplayv.github.io/
 paginate: 1
@@ -37,9 +37,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: vplayv
+  url: https://github.com/vplayv
+  email: vplayv@gmail.com
 
 # Custom vars
 version: 3.0.0
