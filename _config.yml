@@ -1,11 +1,11 @@
 # Mandatory settings
 
+remote_theme : nielsenramon/chalk
 blog_theme: light # Or use dark
 name: Chalk
 paginate: 25
 url: "https://vplayv.github.io"
-baseurl : " "
-remote_theme : nielsenramon/chalk
+baseurl : ""
 
 # Optional settings
 
