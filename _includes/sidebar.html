@@ -16,7 +16,10 @@
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
-
+        <ul class="table-of-contents-list">
+          <li><a href="./python-basic">Python 강좌(1) - Python 기본</a></li>
+          <li><a href="./python-control-statement">Python 강좌(2) - Python 제어문</a></li>
+        </ul>
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
         {% if node.title != null %}
